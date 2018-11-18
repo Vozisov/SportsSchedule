@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SportsSchedule</string>
+
+    <string-array name="weeks">
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+        <item>Воскресенье</item>
+    </string-array>
+
+    <string name="no_events">
+        В этот день занятия не проводятся
+    </string>
+
+    <string name="noinet">Отсутствует Интернет-соединение</string>
+    <string name="noinetmess">Отображаемые данные могут быть не актуальны</string>
+    <string name="ok">Ok</string>
+    <string name="quit">Выйти</string>
+    <string name="nodata">Сохраненные данные отстутствуют. Устраните неполадки сети и перезапустите приложение.</string>
+</resources>
